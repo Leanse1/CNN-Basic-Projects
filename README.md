@@ -1,1 +1,1 @@
-# Computer-Vision-Basic-Projects
+# Convolutional-Neural-Network-Projects
